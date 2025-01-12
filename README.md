@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrea Catelli, a Mathematical Engineer currently pursuing a master’s degree in Quantitative Finance at Politecnico di Milano. 
 
+I'm Andrea Catelli, a Mathematical Engineer currently pursuing a master's degree in Quantitative Finance at Politecnico di Milano.
 
-📫 How to reach me:
-Email: andrea1.catelli@mail.polimi.it
-Email: andrea.cate8@gmail.com
-LinkedIn: www.linkedin.com/in/andrea-catelli1234
+📬 How to reach me:
+- Email: andrea1.catelli@mail.polimi.it
+- Email: andrea.cate8@gmail.com 
+- LinkedIn: www.linkedin.com/in/andrea-catelli1234
 
